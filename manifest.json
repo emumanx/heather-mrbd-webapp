@@ -1,0 +1,10 @@
+{
+    "name": "Heather MRBD Test",
+    "short_name": "Heather",
+    "description": "Pipeline test app for Meta Ray-Ban Display",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#0a0a0a",
+    "theme_color": "#0a0a0a",
+    "icons": []
+}
